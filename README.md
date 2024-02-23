@@ -1,3 +1,3 @@
 # Programação Orientada a Objetos
 
-Resolução da lista de exercícios sobre criação de classes na cadeira de Programação Orientada a Objetos (P.O.O).
+Resolução das listas de exercícios sobre classes, atributos, objetos e métodos na cadeira de Programação Orientada a Objetos (P.O.O).
